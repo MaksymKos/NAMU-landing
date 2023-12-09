@@ -9,6 +9,8 @@ Technological Stack:
 The website is built using HTML, CSS (SCSS).
 Immerse yourself in the world of art and culture by exploring the National Art Museum of Ukraine through this thoughtfully designed website. Discover masterpieces, stay updated on events, and connect with the museum's vibrant community online.
 
+[Demo Version](https://maksymkos.github.io/NAMU-landing/)
+[Figma Design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1&mode=dev)
 
 
 
